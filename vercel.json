@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://node-bacteria-kings-charms.trycloudflare.com/",
+      "permanent": false
+    }
+  ]
+}
