@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "ttps://asthma-screensaver-bronze-easier.trycloudflare.com",
+      "destination": "https://asthma-screensaver-bronze-easier.trycloudflare.com",
       "permanent": false
     }
   ]
