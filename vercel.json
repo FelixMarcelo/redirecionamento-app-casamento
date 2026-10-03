@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "ttps://referral-park-broadcast-jan.trycloudflare.com",
+      "destination": "https://referral-park-broadcast-jan.trycloudflare.com",
       "permanent": false
     }
   ]
