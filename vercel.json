@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": " https://hosted-suffered-humans-worth.trycloudflare.com",
+      "destination": "https://hosted-suffered-humans-worth.trycloudflare.com",
       "permanent": false
     }
   ]
