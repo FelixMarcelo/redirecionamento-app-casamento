@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://eat-ship-questions-corn.trycloudflare.com ",
+      "destination": "https://vpn-choir-accent-ecological.trycloudflare.com",
       "permanent": false
     }
   ]
